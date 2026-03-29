@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/luanqi-stu-portfolio/',
   title: "Hardware_show_my_works",
   description: "Design_&_Debug",
   themeConfig: {
