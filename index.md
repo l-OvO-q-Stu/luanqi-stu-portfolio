@@ -23,10 +23,10 @@ features:
     linkText: 查看详情
   - title: LCC 谐振变换器
     details: 独立设计。峰值效率达 96%，实现充电全过程低环流 ZVS 边界运行。
-    link: /lcc-converter
+    #link: /lcc-converter
     linkText: 查看详情
   - title: Marx 脉冲电源
     details: 参与设计。负责光纤隔离驱动设计、单片机主控板原理图与 PCB 设计。
-    link: /marx-generator
+    #link: /marx-generator
     linkText: 查看详情
 ---
