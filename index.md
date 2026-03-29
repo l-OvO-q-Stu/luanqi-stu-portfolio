@@ -6,7 +6,7 @@ layout: home
 hero:
   name: "Hardware_show_my_works"
   text: "Design_&_Debug"
-  tagline: My project tagline
+  tagline: Welcome ！
   actions:
     - theme: brand
       text: 查看核心项目(DCDC)
@@ -22,7 +22,7 @@ features:
     link: /ahb-current-source
     linkText: 查看详情
   - title: LCC 谐振变换器
-    details: 独立设计。峰值效率达 96%，实现充电全过程低环流 ZVS 边界运行。
+    details: 独立设计。恒功率变频移相混合调制，实现充电全过程低环流 ZVS 边界运行。
     link: /lcc-converter
     linkText: 查看详情
   - title: Marx 脉冲电源
