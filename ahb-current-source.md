@@ -9,11 +9,12 @@ outline: deep
 
 ## 硬件概览
 [在此处客观描述项目的研发背景、核心应用场景以及最终实现的系统功能。控制在 3 到 4 句话以内，避免冗长的背景铺垫。]
+![主拓扑原理图](https://placehold.co/800x400/eeeeee/999999?text=Schematic+Diagram)
 
 ## 核心波形
 [简述主功率拓扑的选择依据，以及关键功率器件（如 IGBT、MOSFET、二极管）和主控芯片的选型考量。]
 
-![主拓扑原理图](https://placehold.co/800x400/eeeeee/999999?text=Schematic+Diagram)
+![主拓扑原理图](/ahb-waveform.png)
 *图 1：主功率回路与核心控制单元原理图*
 
 ##  调试难点与故障排查 (Troubleshooting)
