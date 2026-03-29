@@ -9,11 +9,11 @@ hero:
   tagline: My project tagline
   actions:
     - theme: brand
-      text: 查看核心项目 (AHB)
-      link: /ahb-current-source
+      text: 查看核心项目(DCDC)
+      link: /lcc-converter
     - theme: alt
       text: 简历下载 / 联系方式
-      link: /
+      link: /gressp.pdf
       # 留空或后续替换为简历文件的路径，例如 /resume.pdf
 
 features:
@@ -27,6 +27,6 @@ features:
     linkText: 查看详情
   - title: Marx 脉冲电源
     details: 参与设计。负责光纤隔离驱动设计、单片机主控板原理图与 PCB 设计。
-    #link: /marx-generator
+    link: /marx-generator
     linkText: 查看详情
 ---
