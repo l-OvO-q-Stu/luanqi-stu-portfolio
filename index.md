@@ -13,7 +13,7 @@ hero:
       link: /lcc-converter
     - theme: alt
       text: 简历下载 / 联系方式
-      link: /luanqi-stu-portfolio/gressp.pdf  # <-- 修改此处，加上仓库名
+      link: /luanqi-stu-portfolio/gressp_SunGrow.pdf  # <-- 修改此处，加上仓库名
       # 留空或后续替换为简历文件的路径，例如 /resume.pdf
 
 features:
