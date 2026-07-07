@@ -12,9 +12,8 @@ hero:
       text: 查看核心项目(DCDC)
       link: /lcc-converter
     - theme: alt
-      text: 简历下载 / 联系方式
-      link: /luanqi-stu-portfolio/gressp_SunGrow.pdf  # <-- 修改此处，加上仓库名
-      # 留空或后续替换为简历文件的路径，例如 /resume.pdf
+      text: 查看联系方式
+      link: /contact
 
 features:
   - title: AHB 脉冲电流源
